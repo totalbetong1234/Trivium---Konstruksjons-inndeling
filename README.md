@@ -4,7 +4,7 @@ Oversikt over betongkonstruksjonene i Trivium RIB-modellen (Total Betong).
 
 ## Installasjon
 Prosjekt → **Innstillinger** → **Extensions** → **+ Add Custom** →
-`https://totalbetong1234.github.io/tc-betong-trivium/manifest.json`
+`https://totalbetong1234.github.io/Trivium---Konstruksjons-inndeling/manifest.json`
 
 ## Grupper (sortert på Revit-familie og Type)
 | Gruppe | Innhold |
